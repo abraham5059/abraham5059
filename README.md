@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abraham5059
-- 👀 I’m interested in R, SQL, Swift
-- 🌱 I’m currently learning SQL & R 
+- 👀 I’m interested in SQL, Swift
+- 🌱 I’m currently learning AI models
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
